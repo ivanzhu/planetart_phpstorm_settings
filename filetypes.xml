@@ -1,0 +1,31 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="info" type="Ini" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="class" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern="F" type="PLAIN_TEXT" />
+      <mapping pattern="4d850e" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.prod" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".hidden" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
+      <mapping pattern="tp_comment_ip_block.info" type="PLAIN_TEXT" />
+      <mapping pattern="cw_term_link_formatter" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="modul" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

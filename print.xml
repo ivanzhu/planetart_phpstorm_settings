@@ -1,0 +1,9 @@
+<application>
+  <component name="PrintSettings">
+    <option name="printScope" value="1" />
+    <option name="SYNTAX_PRINTING" value="false" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
+    <option name="FONT_NAME" value="Monaco" />
+    <option name="FOOTER_HEADER_FONT_NAME" value="Serif" />
+  </component>
+</application>

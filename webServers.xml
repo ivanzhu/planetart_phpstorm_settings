@@ -1,0 +1,89 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eb2561a0-ee6c-47a8-9b4c-b3c0e6041131" name="Web40" url="http://borsch01.htmldesign.de">
+        <fileTransfer host="borsch01.htmldesign.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="88d504e3-3a77-462f-bef9-1203be3c003a" name="web24" url="http://web24.borsch01.htmldesign.de/">
+        <fileTransfer host="borsch01.htmldesign.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="16fcdc59-e4d4-47a8-a5df-f85eb62e9360" name="Tipnote" url="http://106.187.100.171">
+        <fileTransfer host="106.187.100.171" port="22" privateKey="$USER_HOME$/.ssh/id_rsa_mac_pro" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="92c3b7bb-cd3c-4adc-b3c3-a416dd4dc530" name="SFTP Tipnote drupalmini" url="http://106.187.100.171">
+        <fileTransfer host="106.187.100.171" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2971972e-988c-4b4e-8031-de04af83ad3c" name="Local" url="http://www.ivan.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="34daef49-8a52-4e3c-9e16-e76e0fa39008" name="Feichtner Tipnote" url="http://106.187.100.171">
+        <fileTransfer host="106.187.100.171" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="262c8201-f59c-4ca0-9135-931123fdbbd1" name="qqlogin7.drupalnotes.cn" url="http://qqlogin7.drupalnotes.cn">
+        <fileTransfer host="106.187.100.171" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/public/qqlogin7.drupalnotes.cn/public" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9ff45a64-e546-4644-96ad-23c8ae465a06" name="roof.drupalnotes.cn" url="http://roof.drupalnotes.cn">
+        <fileTransfer host="139.196.194.78" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/sites/roof.drupalnotes.cn" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a81a2a8b-d60e-4c49-8550-0485dd5ec83c" name="172.23.18.8" url="http://172.23.18.8">
+        <fileTransfer host="172.23.18.8" port="22" rootFolder="/home/ivan/Desktop/solr5" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="17bb71bf-7f58-4f25-aba2-04d9827d7f20" name="d8dn.drupalnotes.cn" url="http://d8dn.drupalnotes.cn">
+        <fileTransfer host="139.196.194.78" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/sites/d8dn.drupalnotes.cn" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b27a497b-e669-4ffc-b5a2-f5e83a817ffb" name="fs.drupalnotes.cn" url="http://fs.drupalnotes.cn">
+        <fileTransfer host="139.196.194.78" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/sites/fs.drupalnotes.cn" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
